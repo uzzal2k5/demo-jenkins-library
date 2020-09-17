@@ -1,5 +1,5 @@
 #!/usr/bin/env groovy
-package com.clevpackages
+package com.packages
 
 class GlobalClass {
    static String foo = "bar"
