@@ -9,6 +9,9 @@ class GlobalClass {
 
    // import com.packages.GlobalClass
    // println GlobalClass.foo
+   def function1(String name = 'human') {
+    echo "Hello, ${name}."
+    }
 }
 
 
