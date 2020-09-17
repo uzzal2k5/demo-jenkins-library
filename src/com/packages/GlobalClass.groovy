@@ -6,6 +6,10 @@ class GlobalClass {
 
    // refer to this in a pipeline using:
    //
+
    // import com.packages.GlobalClass
    // println GlobalClass.foo
 }
+
+}
+
