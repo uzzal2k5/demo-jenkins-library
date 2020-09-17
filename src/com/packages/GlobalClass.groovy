@@ -11,5 +11,4 @@ class GlobalClass {
    // println GlobalClass.foo
 }
 
-}
 
